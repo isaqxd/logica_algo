@@ -1,5 +1,5 @@
 algoritmo "notas"
-// Função : calculo de media usando função
+// Funcao : calculo de media usando If e elseif
 var
 n1, n2, media:real
 inicio

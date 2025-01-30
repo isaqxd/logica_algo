@@ -1,8 +1,5 @@
 algoritmo "caseif"
-// Função :
-// Autor :
-// Data : 30/01/25
-// Seção de Declarações
+// Funcao: pratica de case + if
 var
 casa, visi, dif:inteiro
 v:caractere

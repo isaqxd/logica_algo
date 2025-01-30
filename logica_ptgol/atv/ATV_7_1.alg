@@ -1,8 +1,5 @@
-algoritmo "semnome"
-// Função :
-// Autor :
-// Data : 28/01/25
-// Seção de Declarações
+algoritmo "se"
+// Funcao : introducao a if
 var
 idade, ano, apto:real
 inicio
@@ -15,10 +12,10 @@ Leia(idade)
 apto <- ano - idade
 
 Se (apto >= 18) entao
-   Escreval("A idade do cliente é: ", apto)
-   escreval("Ele é apto para dirigir!")
+   Escreval("A idade do cliente e: ", apto)
+   escreval("Ele e apto para dirigir!")
 SeNao
-   Escreval("A idade do cliente é: ", apto)
-   escreval("o cliente não é apto para dirigir!")
+   Escreval("A idade do cliente e: ", apto)
+   escreval("o cliente nao e apto para dirigir!")
 FimSe
 fimalgoritmo

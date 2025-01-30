@@ -4,7 +4,7 @@ var
 media, n1, n2:real
 inicio
 escreval("---------------------")
-escreval("Lançamento de notas")
+escreval("Lancamento de notas")
 escreval("---------------------")
 escreva("Primeira nota: ")
 leia (n1)
@@ -19,7 +19,7 @@ se (media >= 7) entao
    escreva ("O aluno foi aprovado")
 senao
    se (media >= 5) e (media < 7) entao
-      escreva("O aluno está em recuperação")
+      escreva("O aluno estï¿½ em recuperaï¿½ï¿½o")
    senao
       escreva("O aluno foi reprovado.")
    FimSe
